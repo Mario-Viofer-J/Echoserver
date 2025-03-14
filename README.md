@@ -1,6 +1,9 @@
 # Echoserver
 Echo server and client using python socket
 
+## NAME: MARIO VIOFER J
+## REGISTER NO.: 212223100032
+
 # AIM:
 
 To develop a simple webserver to serve html programming pages.
