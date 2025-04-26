@@ -64,10 +64,11 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 ## OUTPUT:
 ### CLIENT:
 
-![alt text](<Screenshot 2025-03-14 214515.png>)
+![alt text](<client.png>)
 
 ### SERVER:
 
-![alt text](<Screenshot 2025-03-14 214532.png>)
+![alt text](<server.png>)
+
 ## RESULT:
 The program is executed successfully
